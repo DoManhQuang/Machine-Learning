@@ -1,0 +1,4 @@
+python 3 : 
+	- Windows + R 
+	- cmd
+	- pip install -r requirements.txt 
