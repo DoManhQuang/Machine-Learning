@@ -20,10 +20,10 @@ Một Giải pháp khá ổn đó là chúng ta sẽ tăng dữ liệu kiểm tr
 dataset , chúng ta lập ra được biểu đồ về sự giống nhau giữa các 
 bức ảnh đầu vào với bức ảnh có sẵn trong dataset.
 
-# Chart Cat 
+#### Chart Cat 
  [0.946, 0.829, 0.143, 0.947, 0.052, 0.252]
 
-# Chart Dog 
+#### Chart Dog 
  [0.977, 0.772, 0.371, 0.966, 0.331, 0.509]
 
 ## Tính kỳ vọng.
