@@ -31,6 +31,6 @@ Biểu đồ cho ta thấy rõ sự khác nhau và giống nhau giữa các màu
 của ảnh.Cuối cùng thì ta sẽ tính kỳ vọng của ảnh để đưa ra kết quả.
       
 ## Help
-Nếu bạn gặp vấn đề gì đó hãy liên hệ lại với [Tôi](https://github.com/DoManhQuang) or reach out on facebook [@Đỗ Mạnh Quang](https://www.facebook.com/ManhQuangITBlue) .
+Nếu bạn gặp vấn đề gì đó hãy liên hệ lại với [Tôi](https://github.com/DoManhQuang) hoặc tìm kiếm facebook [@Đỗ Mạnh Quang](https://www.facebook.com/ManhQuangITBlue) .
 
  
